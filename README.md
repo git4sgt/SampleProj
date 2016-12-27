@@ -1,3 +1,3 @@
 # SampleProj
 For Testing
-THis proj is for testing purpose
+This project is for testing purpose
